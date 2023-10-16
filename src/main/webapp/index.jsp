@@ -2,6 +2,6 @@
 <body>
 
 <h1>Welcome to DevOps Class</h1>
-<h1>Maven project completed. I hope you understood hurrr!!!!!!</h1>
+<h1>Maven project completed. I hope you understood hurrryyyyyyyy!!!!!!</h1>
 </body>
 </html>
